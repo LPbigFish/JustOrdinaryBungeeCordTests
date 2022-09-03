@@ -1,0 +1,3 @@
+name: Bungeecord_Queue
+version: '${project.version}'
+main: me.funny.bungeecord_queue.Bungeecord_queue
